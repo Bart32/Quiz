@@ -3,6 +3,7 @@
 using namespace std;
 int main()
 {
+    int exit;
     int actuall_number=1;
     Question p[5];
     int sum=0;
@@ -18,5 +19,6 @@ int main()
 
 
     cout << "Quiz is over ! POINTS =" <<sum;
+    cin >> exit;
     return 0;
 }

@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1510412831 source:d:\programowanie\c++\projekty\objective_quiz\quiz\main.cpp
+1510413200 source:d:\programowanie\c++\projekty\objective_quiz\quiz\main.cpp
 	<iostream>
 	"question.h"
 

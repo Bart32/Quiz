@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1510412831 source:d:\programowanie\c++\projekty\objective_quiz\quiz\main.cpp
+	<iostream>
+	"question.h"
+
+1510411239 d:\programowanie\c++\projekty\objective_quiz\quiz\question.h
+	<iostream>
+
+1510411267 source:d:\programowanie\c++\projekty\objective_quiz\quiz\question.cpp
+	<iostream>
+	"question.h"
+	<fstream>
+	<cstdlib>
+
